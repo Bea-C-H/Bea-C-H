@@ -1,26 +1,24 @@
-<div align="center">
-  <svg width="100%" height="150" viewBox="0 0 800 150">
-    <rect width="100%" height="100%" fill="#FFE4E1"/>
-    <text x="50%" y="50%" text-anchor="middle" font-size="24" font-family="Arial" fill="#8B4B8C">
-      🌸 Mi Proyecto Rosa 🌸
-    </text>
-  </svg>
-</div>
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
   
-  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true" width="300">
+<img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true" width="300">
 </p>
 
 
- 
- # ¡HOLA, SOY BEA! 👋✨
+# ¡HOLA, SOY BEA! 👋✨
 
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
 💻 **Full Stack Developer** | Java | JavaScript | Node.js  
 🎨 Apasionada por el diseño, el aprendizaje continuo y los proyectos creativos.
 
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/refs/heads/main/foto2.jpg" width="300" height="300">
 </p>
+
+
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
 ### 🚀 Sobre mí
 
@@ -33,6 +31,7 @@
   <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto4.jpg?raw=true" width="300" height="300">
 </p>
 
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
 ### 🛠 Tecnologías y herramientas
 
@@ -43,14 +42,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 ---
-
 ### 📊 Estadísticas de GitHub
 
 ![Bea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bea-C-H&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-C-H&layout=compact&theme=radical&title_color=ff69b4)
 
 ---
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
 ### ✨ Gifs favoritos
 
@@ -65,6 +65,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh6Nm04cjd5YmgxdHd5N3o5bGRoZ3planJteTkwajUycWRkeXViYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mdStjhHuiHpyo/giphy.gif" width="300">
 </p>
 
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 ---
 
 ### 📫 Conecta conmigo
@@ -88,4 +89,4 @@
   <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto3.jpg?raw=true" width="400">
 </p>
 
-</div>
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
