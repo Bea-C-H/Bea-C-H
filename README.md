@@ -63,7 +63,12 @@
 📧 beatrizcarolina.triz@gmail.com
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beatriz-castro-hermosilla)
+<p align="center">
+  <a href="www.linkedin.com/in/beatriz-castro-hermosilla">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+</p>
 
 
 ---
