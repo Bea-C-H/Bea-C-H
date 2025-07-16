@@ -1,4 +1,4 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=620863498667357877" height="550" width="450" frameborder="0" scrolling="no" ></iframe>
+
 # ¡Hola, soy Bea! 👋
 
 💻 **Full Stack Developer** | Java | JavaScript | Node.js  
@@ -15,7 +15,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/main/banner-pink.png" alt="Banner" width="100%">
+  <img src="https://assets.pinterest.com/ext/embed.html?id=620863498667357877" height="550" width="450" frameborder="0" scrolling="no" ></iframe>
 </p>
 
 <!-- Imagen de perfil -->
