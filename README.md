@@ -12,7 +12,7 @@
 
    💻 **Full Stack Developer** 
 
-   **| Java | JavaScript | Node.js |**
+   
 
    ### 🚀 Sobre mí
    
