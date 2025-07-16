@@ -1,9 +1,14 @@
 <p align="center">
   <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true">
 </p>
+# ¡Hola, soy Bea! 👋✨
 
+💻 **Full Stack Developer** | Java | JavaScript | Node.js  
 🎨 Apasionada por el diseño, el aprendizaje continuo y los proyectos creativos.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/refs/heads/main/foto2.jpg">
+</p>
 
 ### 🚀 Sobre mí
 
@@ -12,23 +17,9 @@
 - 💬 Me encanta compartir conocimientos y colaborar en comunidad.
 
  ---
-
-<!-- Banner -->
 <p align="center">
-  <img src="https://assets.pinterest.com/ext/embed.html?id=620863498667357877" height="550" width="450" frameborder="0" scrolling="no" ></iframe>
+  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto4.jpg?raw=true">
 </p>
-
-<!-- Imagen de perfil -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/main/profile-pink.png" alt="Bea's profile image" width="200">
-</p>
-
-<!-- Mensaje animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=¡Hola,+soy+Bea!+💻;Full+Stack+Developer+🌸;Amante+del+aprendizaje+y+la+creatividad!;Bienvenida+a+mi+perfil+de+GitHub!&center=true&width=500&height=50">
-</p>
-
----
 
 
 ### 🛠 Tecnologías y herramientas
@@ -48,10 +39,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-C-H&layout=compact&theme=radical&title_color=ff69b4)
 
 ---
+
 ### ✨ Gifs favoritos
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI0eXFtczh4YXV2ajVtcmZsN29xNWNtdmZnb21pZXdrdHFvMHI3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A9jPlUWj6bBYqt7RZ1/giphy.gif" width="200">
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200">
   <img src="https://media.giphy.com/media/l3q2zbskZp4K9Syc0/giphy.gif" width="200">
 </p>
