@@ -86,9 +86,6 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTl3MjM1MWY2am94cG1nOG82a
 
 
 
-<p align="center">
-  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto3.jpg?raw=true" width="400">
-</p>
 
 <p align="center">
 🌷 *Gracias por visitar mi perfil 💻✨*
