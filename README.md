@@ -10,6 +10,16 @@
 - 🌱 Aprendiendo Data Science y nuevas tecnologías.
 - 💬 Me encanta compartir conocimientos y colaborar en comunidad.
 
+  ---
+
+### 🌸 Mensaje animado
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenida+a+mi+GitHub!;Amante+del+código+y+la+creatividad;Siempre+aprendiendo+y+compartiendo💖&center=true&width=500&height=50">
+</p>
+
+---
+
 ---
 
 ### 🛠 Tecnologías y herramientas
@@ -29,9 +39,20 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-C-H&layout=compact&theme=radical&title_color=ff69b4)
 
 ---
+### 💕 Gifs favoritos
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200">
+</p>
+
+---
 
 ### 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beatriz-castro-hermosilla)
 📧 beatrizcarolina.triz@gmail.com
 
+
+🌟 *Gracias por visitar mi perfil. ¡Sigue soñando en código! 💻✨*
