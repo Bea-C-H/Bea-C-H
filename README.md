@@ -10,7 +10,7 @@
 🎨 Apasionada por el diseño, el aprendizaje continuo y los proyectos creativos.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/refs/heads/main/foto2.jpg" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/refs/heads/main/foto2.jpg" width="300" height="300">
 </p>
 
 ### 🚀 Sobre mí
@@ -21,7 +21,7 @@
 
  ---
 <p align="center">
-  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto4.jpg?raw=true" width="300" height="200">
+  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto4.jpg?raw=true" width="300" height="300">
 </p>
 
 
@@ -48,7 +48,6 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI0eXFtczh4YXV2ajVtcmZsN29xNWNtdmZnb21pZXdrdHFvMHI3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A9jPlUWj6bBYqt7RZ1/giphy.gif" width="300">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJlcHdjem8wcm51emFtOHE2bjFydnV1Z2J5bnR5Nnh0ZjNyeWN2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bCNRKkrw4O1ELlKl4a/giphy.gif" width="200">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U1bWw3ZDN1MGc0aGMxdXdjZmR6NDdtbHF4aGtpcGpqYnVkMG1sNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhsNmFjuN4WDS/giphy.gif" width="300">
 </p>
 
 <p align="center">
