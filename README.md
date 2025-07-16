@@ -13,6 +13,8 @@
    💻 **Full Stack Developer** 
 
    **| Java | JavaScript | Node.js |**
+
+   ### 🚀 Sobre mí
    
    🎨Desarrolladora Full Stack en formación, con una gran pasión por la tecnología, el diseño y la creación de soluciones que impacten positivamente a las personas.
    Mi camino en la programación comenzó por curiosidad y rápidamente se transformó en una vocación: disfruto aprender nuevas herramientas, enfrentar desafíos técnicos y
@@ -33,8 +35,6 @@
 </p>
 
 
-
-### 🚀 Sobre mí
 
 - 🔭 Actualmente trabajando en proyectos personales y desafíos de programación.
 - 🌱 Aprendiendo Data Science y nuevas tecnologías.
