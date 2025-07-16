@@ -1,5 +1,5 @@
 
-  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/bea1.png?raw=true" width="300">
+  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/bea2.png?raw=true" width="300">
   </p>
 
 
