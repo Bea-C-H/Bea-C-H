@@ -1,4 +1,4 @@
-🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+
   <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true" width="300">
   </p>
 
@@ -48,8 +48,6 @@
 
 
 
-🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
-
 
 
 
@@ -64,9 +62,7 @@
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI0eXFtczh4YXV2ajVtcmZsN29xNWNtdmZnb21pZXdrdHFvMHI3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A9jPlUWj6bBYqt7RZ1/giphy.gif" width="300">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJlcHdjem8wcm51emFtOHE2bjFydnV1Z2J5bnR5Nnh0ZjNyeWN2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bCNRKkrw4O1ELlKl4a/giphy.gif" width="200">
 </p>
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFjOWd4bmN1cXJpeGt2emJ2ZnFoMWMxcmhkMzBtdWJ3bHhxcHBkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XiO62waDsyfyU/giphy.gif"200">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTl3MjM1MWY2am94cG1nOG82anRmaGNtNDdheWM1ZTdid203ajE4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lOKyKOS89YyJfq/giphy.gif" width="300">
@@ -89,16 +85,13 @@
 
 
 
-🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
-
-
 
 <p align="center">
   <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto3.jpg?raw=true" width="400">
 </p>
 
 <p align="center">
-🌷 *Gracias por visitar mi perfil. ¡Sigue soñando en código! 💻✨*
+🌷 *Gracias por visitar mi perfil 💻✨*
 </p>
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
