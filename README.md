@@ -10,23 +10,16 @@
 - 🌱 Aprendiendo Data Science y nuevas tecnologías.
 - 💬 Me encanta compartir conocimientos y colaborar en comunidad.
 
-  ---
+ ---
 
-### 🌸 Mensaje animado
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenida+a+mi+GitHub!;Amante+del+código+y+la+creatividad;Siempre+aprendiendo+y+compartiendo💖&center=true&width=500&height=50">
-</p>
-
----
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/banner-pink.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/main/banner-pink.png" alt="Banner" width="100%">
 </p>
 
 <!-- Imagen de perfil -->
 <p align="center">
-  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/profile-pink.png" alt="Bea's profile image" width="200">
+  <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/main/profile-pink.png" alt="Bea's profile image" width="200">
 </p>
 
 <!-- Mensaje animado -->
@@ -57,9 +50,15 @@
 ### ✨ Gifs favoritos
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/l3q2zbskZp4K9Syc0/giphy.gif" width="200">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2QDM9Jnim1YVILXa/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="200">
 </p>
 
 ---
@@ -72,11 +71,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tuusuario">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://tuportafolio.com">
-    <img src="https://img.shields.io/badge/Portafolio-FF69B4?style=for-the-badge&logo=aboutdotme&logoColor=white">
-  </a>
-</p>
+ </p>
 
 ---
 
