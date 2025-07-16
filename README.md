@@ -1,5 +1,5 @@
 
-  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/bea2.png?raw=true" width="1280" height="640">
+  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/bea2.png?raw=true" width="1200" height="300">
   </p>
 
 
@@ -11,8 +11,7 @@
 
    💻 **Full Stack Developer** 
 
-   
-   **| Java | JavaScript | Node.js**
+   **| Java | JavaScript | Node.js |**
    
    🎨Desarrolladora Full Stack en formación, con una gran pasión por la tecnología, el diseño y la creación de soluciones que impacten positivamente a las personas.
    Mi camino en la programación comenzó por curiosidad y rápidamente se transformó en una vocación: disfruto aprender nuevas herramientas, enfrentar desafíos técnicos y
