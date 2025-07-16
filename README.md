@@ -3,15 +3,25 @@
   </p>
 
 
-# ¡HOLA, SOY BEA! 👋✨
+# ¡Hola, Soy Bea! 👋✨
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
 
 
-   💻 **Full Stack Developer** | Java | JavaScript | Node.js  
-   🎨 Apasionada por el diseño, el aprendizaje continuo y los proyectos creativos.
-
+   💻 **Full Stack Developer** 
+   **| Java | JavaScript | Node.js**
+   
+   🎨Desarrolladora Full Stack en formación, con una gran pasión por la tecnología, el diseño y la creación de soluciones que impacten positivamente a las personas.
+   Mi camino en la programación comenzó por curiosidad y rápidamente se transformó en una vocación: disfruto aprender nuevas herramientas, enfrentar desafíos técnicos y
+   resolver problemas con creatividad. Actualmente estoy finalizando un bootcamp intensivo en Java Full Stack, donde he aprendido a desarrollar aplicaciones completas,
+   desde el backend hasta interfaces web atractivas.
+   
+   Soy una persona curiosa, proactiva y comprometida, siempre buscando crecer profesionalmente y compartir lo que aprendo. Me encanta trabajar en equipo, colaborar en
+   proyectos significativos y aportar una mirada creativa que combine lo técnico con lo humano.
+   
+   Mi próximo paso es especializarme en Data Science para potenciar mi perfil y abrir nuevas oportunidades en el mundo tech, especialmente en industrias donde la
+   tecnología puede hacer una diferencia real.
 
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
