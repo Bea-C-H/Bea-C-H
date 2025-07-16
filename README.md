@@ -19,8 +19,23 @@
 </p>
 
 ---
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/banner-pink.png" alt="Banner" width="100%">
+</p>
+
+<!-- Imagen de perfil -->
+<p align="center">
+  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/profile-pink.png" alt="Bea's profile image" width="200">
+</p>
+
+<!-- Mensaje animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=¡Hola,+soy+Bea!+💻;Full+Stack+Developer+🌸;Amante+del+aprendizaje+y+la+creatividad!;Bienvenida+a+mi+perfil+de+GitHub!&center=true&width=500&height=50">
+</p>
 
 ---
+
 
 ### 🛠 Tecnologías y herramientas
 
@@ -39,7 +54,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-C-H&layout=compact&theme=radical&title_color=ff69b4)
 
 ---
-### 💕 Gifs favoritos
+### ✨ Gifs favoritos
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
@@ -54,5 +69,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beatriz-castro-hermosilla)
 📧 beatrizcarolina.triz@gmail.com
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://tuportafolio.com">
+    <img src="https://img.shields.io/badge/Portafolio-FF69B4?style=for-the-badge&logo=aboutdotme&logoColor=white">
+  </a>
+</p>
 
-🌟 *Gracias por visitar mi perfil. ¡Sigue soñando en código! 💻✨*
+---
+
+<p align="center">
+🌷 *Gracias por visitar mi perfil. ¡Sigue soñando en código! 💻✨*
+</p>
+
