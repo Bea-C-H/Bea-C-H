@@ -1,3 +1,7 @@
+<svg width="100%" height="100">
+  <rect width="100%" height="100%" fill="#FFE4E1" rx="10" ry="10"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#333" font-size="16" font-family="Arial">
+
 <div style="background-color: #FFE4E1; padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="center">
   
@@ -7,6 +11,9 @@
 
  
  # ¡HOLA, SOY BEA! 👋✨
+
+ </text>
+</svg>
 
 💻 **Full Stack Developer** | Java | JavaScript | Node.js  
 🎨 Apasionada por el diseño, el aprendizaje continuo y los proyectos creativos.
