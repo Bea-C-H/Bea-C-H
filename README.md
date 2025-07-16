@@ -64,7 +64,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI0eXFtczh4YXV2ajVtcmZsN29xNWNtdmZnb21pZXdrdHFvMHI3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A9jPlUWj6bBYqt7RZ1/giphy.gif" width="300">
 </p>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFjOWd4bmN1cXJpeGt2emJ2ZnFoMWMxcmhkMzBtdWJ3bHhxcHBkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XiO62waDsyfyU/giphy.gif"200">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFjOWd4bmN1cXJpeGt2emJ2ZnFoMWMxcmhkMzBtdWJ3bHhxcHBkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XiO62waDsyfyU/giphy.gif"100">
   <img 
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTl3MjM1MWY2am94cG1nOG82anRmaGNtNDdheWM1ZTdid203ajE4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lOKyKOS89YyJfq/giphy.gif" width="300">
 </p>
