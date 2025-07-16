@@ -4,19 +4,19 @@
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
-# ¡Hola, Soy Bea! 👋✨
+# ✨¡Hola, Soy Bea! ✨
 
 
 
 
 
-   ## 💻 **Full Stack Developer** 
+   ## 🌷💻 **Full Stack Developer** 💻🌷
 
    
 
-   ### 🚀 Sobre mí
+   ### 💫 Sobre mí 💫
    
-   🎨Desarrolladora Full Stack en formación, con una gran pasión por la tecnología, el diseño y la creación de soluciones que impacten positivamente a las personas.
+  🌟Desarrolladora Full Stack en formación, con una gran pasión por la tecnología, el diseño y la creación de soluciones que impacten positivamente a las personas.
    Mi camino en la programación comenzó por curiosidad y rápidamente se transformó en una vocación: disfruto aprender nuevas herramientas, enfrentar desafíos técnicos y
    resolver problemas con creatividad. Actualmente estoy finalizando un bootcamp intensivo en Java Full Stack, donde he aprendido a desarrollar aplicaciones completas,
    desde el backend hasta interfaces web atractivas.
