@@ -1,7 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true">
+</p>
 
-# ¡Hola, soy Bea! 👋
-
-💻 **Full Stack Developer** | Java | JavaScript | Node.js  
 🎨 Apasionada por el diseño, el aprendizaje continuo y los proyectos creativos.
 
 
