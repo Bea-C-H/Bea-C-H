@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true">
+  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true" width="300" height="200">
 </p>
-# ¡Hola, soy Bea! 👋✨
+
+
+                                                                 # ¡HOLA, SOY BEA! 👋✨
 
 💻 **Full Stack Developer** | Java | JavaScript | Node.js  
 🎨 Apasionada por el diseño, el aprendizaje continuo y los proyectos creativos.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/refs/heads/main/foto2.jpg">
+  <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/refs/heads/main/foto2.jpg" width="300" height="200">
 </p>
 
 ### 🚀 Sobre mí
@@ -18,7 +20,7 @@
 
  ---
 <p align="center">
-  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto4.jpg?raw=true">
+  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto4.jpg?raw=true" width="300" height="200">
 </p>
 
 
