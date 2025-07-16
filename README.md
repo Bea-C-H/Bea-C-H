@@ -1,3 +1,8 @@
+<div style="background-color: #FFB6C1; padding: 20px; border-radius: 10px;">
+
+
+
+
 <p align="center">
   <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true" width="300">
 </p>
