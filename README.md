@@ -1,10 +1,6 @@
-<div style="background-color: #FFB6C1; padding: 20px; border-radius: 10px;">
-#mi proyecto
-
-
-
-
+<div style="background-color: #FFE4E1; padding: 20px; border-radius: 15px; margin: 20px 0;">
 <p align="center">
+  
   <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true" width="300">
 </p>
 
