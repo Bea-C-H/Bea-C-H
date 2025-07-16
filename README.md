@@ -1,9 +1,11 @@
-<svg width="100%" height="100">
-  <rect width="100%" height="100%" fill="#FFE4E1" rx="10" ry="10"/>
-  <text x="50%" y="50%" text-anchor="middle" fill="#333" font-size="16" font-family="Arial">
-
-<div style="background-color: #FFE4E1; padding: 20px; border-radius: 15px; margin: 20px 0;">
-<p align="center">
+<div align="center">
+  <svg width="100%" height="150" viewBox="0 0 800 150">
+    <rect width="100%" height="100%" fill="#FFE4E1"/>
+    <text x="50%" y="50%" text-anchor="middle" font-size="24" font-family="Arial" fill="#8B4B8C">
+      🌸 Mi Proyecto Rosa 🌸
+    </text>
+  </svg>
+</div>
   
   <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true" width="300">
 </p>
@@ -12,8 +14,6 @@
  
  # ¡HOLA, SOY BEA! 👋✨
 
- </text>
-</svg>
 
 💻 **Full Stack Developer** | Java | JavaScript | Node.js  
 🎨 Apasionada por el diseño, el aprendizaje continuo y los proyectos creativos.
