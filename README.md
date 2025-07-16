@@ -1,14 +1,18 @@
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
-<img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true" width="300">
-</p>
+  <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto1.jpg?raw=true" width="300">
+  </p>
 
 
 # ¡HOLA, SOY BEA! 👋✨
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
-💻 **Full Stack Developer** | Java | JavaScript | Node.js  
-🎨 Apasionada por el diseño, el aprendizaje continuo y los proyectos creativos.
+
+
+   💻 **Full Stack Developer** | Java | JavaScript | Node.js  
+   🎨 Apasionada por el diseño, el aprendizaje continuo y los proyectos creativos.
+
+
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
@@ -16,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/Bea-C-H/Bea-C-H/refs/heads/main/foto2.jpg" width="300" height="300">
 </p>
 
-🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+
 
 ### 🚀 Sobre mí
 
@@ -31,6 +35,8 @@
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
+
+
 ### 🛠 Tecnologías y herramientas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -40,7 +46,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
+
+
+
 
 ### 📊 Estadísticas de GitHub
 
@@ -75,14 +86,19 @@
   </a>
 </p>
 
+
+
+
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
 
-<p align="center">
-🌷 *Gracias por visitar mi perfil. ¡Sigue soñando en código! 💻✨*
-</p>
+
 
 <p align="center">
   <img src="https://github.com/Bea-C-H/Bea-C-H/blob/main/foto3.jpg?raw=true" width="400">
+</p>
+
+<p align="center">
+🌷 *Gracias por visitar mi perfil. ¡Sigue soñando en código! 💻✨*
 </p>
 
 🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸
