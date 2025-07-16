@@ -10,6 +10,8 @@
 
 
    💻 **Full Stack Developer** 
+
+   
    **| Java | JavaScript | Node.js**
    
    🎨Desarrolladora Full Stack en formación, con una gran pasión por la tecnología, el diseño y la creación de soluciones que impacten positivamente a las personas.
