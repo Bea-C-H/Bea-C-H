@@ -65,7 +65,6 @@
 </p>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFjOWd4bmN1cXJpeGt2emJ2ZnFoMWMxcmhkMzBtdWJ3bHhxcHBkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XiO62waDsyfyU/giphy.gif"200">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTl3MjM1MWY2am94cG1nOG82anRmaGNtNDdheWM1ZTdid203ajE4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lOKyKOS89YyJfq/giphy.gif" width="300">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnh6Nm04cjd5YmgxdHd5N3o5bGRoZ3planJteTkwajUycWRkeXViYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mdStjhHuiHpyo/giphy.gif" width="300">
 </p>
 
